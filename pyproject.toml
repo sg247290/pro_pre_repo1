@@ -1,0 +1,3 @@
+dependencies = [
+    "predikit>=0.4.1"
+]
